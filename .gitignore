@@ -1,0 +1,25 @@
+# Personal and company payroll exports
+*.xlsx
+*.xls
+*.csv
+*.tsv
+*.zip
+*.bak
+*.backup
+*.jsonl
+
+# Local/private data
+.env
+.env.*
+*.key
+*.pem
+data/
+backups/
+exports/
+payroll-data/
+
+# OS/editor clutter
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
